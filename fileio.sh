@@ -5,7 +5,7 @@
 #
 #  Created by Shubham Kamdi on 2/2/23.
 #  
-file_size=1G
+file_size=2G
 
 # Prepare the test file
 sysbench fileio --file-total-size=$file_size prepare
